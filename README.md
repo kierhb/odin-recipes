@@ -1,3 +1,3 @@
 # odin-recipes
-First project on The Oding Project
-Creating a basic recipe website by demonstrating what were learned throught the topics
+First project on The Odin Project
+Creating a basic recipe website by demonstrating what were learned throughout the topics.
