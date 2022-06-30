@@ -1,0 +1,34 @@
+.titlecard {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: center;
+    font-size: 75px;
+    font-weight: 700;
+    color: white;
+    background-color: #fca311;
+}
+
+img{
+    height:200px;
+    width: 1000px;
+}
+
+.intro {
+    font-size: 20px;
+    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color:#023047;
+    font-weight: 500;
+}
+
+.motto {
+    font-size: 25px;
+    text-align: right;
+    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #219ebc;
+    font-weight: 700;
+}
+
+.recipe-list {
+    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    color: #141213d;
+}
