@@ -10,6 +10,9 @@
 img{
     height:200px;
     width: 1000px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .intro {
@@ -20,15 +23,46 @@ img{
 }
 
 .motto {
-    font-size: 25px;
+    font-size: 20px;
     text-align: right;
     font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #219ebc;
     font-weight: 700;
 }
 
-.recipe-list {
+.list1 {
     font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 30px;
-    color: #141213d;
+    color: navy;
+}
+
+.titlecard2 {
+    font-family:  "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    background-color: rgb(255, 140, 0);
+}
+
+.titlecard3 {
+    font-family:  "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(65, 57, 57);
+}
+
+.list2 {
+    font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    color: darkslategrey;
+}
+
+.recipe-pic {
+    height: 400px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
